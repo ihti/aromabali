@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Lemongrass",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "lemongrass",
+    "color_code": "#4D6641"
+  },
+  {
+    "name": "Cocoa",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "cocoa",
+    "color_code": "#855B40"
+  },
+  {
+    "name": "Green tea",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "green-tea",
+    "color_code": "#17502D"
+  },
+  {
+    "name": "Frangipani",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "frangipani",
+    "color_code": "#E0C246"
+  },
+  {
+    "name": "Sandalwood",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "sandalwood",
+    "color_code": "#7C3730"
+  },
+  {
+    "name": "Jasmine",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "jasmine",
+    "color_code": "#CBB594"
+  },
+  {
+    "name": "Coconut",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "coconut",
+    "color_code": "#1B5070"
+  },
+  {
+    "name": "Ylang Ylang",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "ylang-ylang",
+    "color_code": "#92903A"
+  },
+  {
+    "name": "Neutral",
+    "ingredients": [
+      "Olive Oil",
+      "Mineral Oil",
+      "Virgin Coconut Oil",
+      "Phenoxyethanol",
+      "Butylated Hydroxytoluene",
+      "Essential Oil"
+    ],
+    "url": "neutral",
+    "color_code": "#3C4345"
+  }
+]
