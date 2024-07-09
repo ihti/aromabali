@@ -30,7 +30,8 @@ export default function Page({ params }) {
           />
         </Link>
       </div>
-      <h1 className="text-5xl mt-8 uppercase">{oil.name}</h1>
+      <h1 className="text-5xl mt-8 uppercase font-semibold tracking-tighter">{oil.name}</h1>
+      <p className="bg-white mx-2 p-4 text-gray-900 rounded-xl text-md mt-4 w-full md:w-6/12">{oil.description}</p>
     </div>
   );
 }

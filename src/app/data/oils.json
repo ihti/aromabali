@@ -10,7 +10,8 @@
       "Essential Oil"
     ],
     "url": "lemongrass",
-    "color_code": "#4D6641"
+    "color_code": "#4D6641",
+    "description": "Osvježavajuće ulje limunske trave pruža energizirajući doživljaj s svojim citrusnim, svježim mirisom. Poznato po svojim svojstvima koja podižu raspoloženje, ovo ulje također može pomoći u ublažavanju napetosti mišića i poboljšanju cirkulacije. Idealno za revitalizirajuću masažu koja će vas ostaviti osvježenim i pomlađenim."
   },
   {
     "name": "Cocoa",
@@ -23,7 +24,8 @@
       "Essential Oil"
     ],
     "url": "cocoa",
-    "color_code": "#855B40"
+    "color_code": "#855B40",
+    "description": "Ulje kakaa nudi bogat, zavodljiv miris čokolade koji mami osjetila. Ovo ulje je izvrsno za hidrataciju kože, ostavljajući je mekom i glatkom. Bogato antioksidansima, pomaže u zaštiti kože od slobodnih radikala. Odličan izbor za opuštajuću, umirujuću masažu koja hrani i tijelo i duh."
   },
   {
     "name": "Green tea",
@@ -36,7 +38,8 @@
       "Essential Oil"
     ],
     "url": "green-tea",
-    "color_code": "#17502D"
+    "color_code": "#17502D",
+    "description": "Ulje zelenog čaja, poznato po svojim snažnim antioksidativnim svojstvima, nudi blagi, svježi miris koji umiruje um. Ovo ulje pomaže u detoksikaciji kože, smanjenju upala i poboljšanju elastičnosti. Idealno za one koji traže masažu koja će obnoviti i tijelo i um, ostavljajući kožu blistavom i revitaliziranom."
   },
   {
     "name": "Frangipani",
@@ -49,7 +52,8 @@
       "Essential Oil"
     ],
     "url": "frangipani",
-    "color_code": "#E0C246"
+    "color_code": "#E0C246",
+    "description": "Egzotično ulje frangipani (plumerije) donosi dašak tropskog raja u vaše iskustvo masaže. S svojim suptilnim, slatkim cvjetnim mirisom, ovo ulje stvara atmosferu opuštanja i romantike. Poznato po svojim umirujućim svojstvima, pomaže u smanjenju stresa i anksioznosti, istovremeno hidratizira i omekšava kožu."
   },
   {
     "name": "Sandalwood",
@@ -62,7 +66,8 @@
       "Essential Oil"
     ],
     "url": "sandalwood",
-    "color_code": "#7C3730"
+    "color_code": "#7C3730",
+    "description": "Ulje sandalovine nudi bogat, drvenast miris koji uzemljuje i centrira. Poznato po svojim meditativnim svojstvima, ovo ulje pomaže u smanjenju napetosti i anksioznosti. Također je odlično za kožu, pomažući u zadržavanju vlage i poboljšanju elastičnosti. Izvrsno za duboku, opuštajuću masažu koja smiruje i tijelo i um."
   },
   {
     "name": "Jasmine",
@@ -75,7 +80,8 @@
       "Essential Oil"
     ],
     "url": "jasmine",
-    "color_code": "#CBB594"
+    "color_code": "#CBB594",
+    "description": "Ulje jasmina očarava svojim intenzivnim, slatkim cvjetnim mirisom. Poznato kao 'kraljica noći', ovo ulje stvara atmosferu romantike i senzualnosti. Jasmin nije samo ugodan miris; on također pomaže u podizanju raspoloženja, smanjenju stresa i poboljšanju kvalitete kože. Idealno za opuštajuću masažu koja ujedno podiže samopouzdanje i potiče pozitivne emocije."
   },
   {
     "name": "Coconut",
@@ -88,7 +94,8 @@
       "Essential Oil"
     ],
     "url": "coconut",
-    "color_code": "#1B5070"
+    "color_code": "#1B5070",
+    "description": "Ulje kokosa donosi tropski raj u vaše iskustvo masaže. S svojim prepoznatljivim, ugodnim mirisom, ovo ulje dubinski hidratizira kožu, čineći je mekom i glatkom. Bogato vitaminima i masnim kiselinama, kokosovo ulje hrani kožu i može pomoći u smanjenju znakova starenja. Izvrstan izbor za opuštajuću masažu koja će vašu kožu ostaviti svilenkastom i njegovanom."
   },
   {
     "name": "Ylang Ylang",
@@ -101,7 +108,8 @@
       "Essential Oil"
     ],
     "url": "ylang-ylang",
-    "color_code": "#92903A"
+    "color_code": "#92903A",
+    "description": "Egzotično ulje ylang ylanga osvaja svojim intenzivnim, slatkim cvjetnim mirisom s blagom notom voća. Poznato po svojim afrodizijačkim svojstvima, ovo ulje stvara atmosferu romantike i strasti. Ylang ylang također pomaže u smanjenju stresa, snižavanju krvnog tlaka i poboljšanju raspoloženja. Odlično za senzualnu masažu koja opušta tijelo i uzbuđuje osjetila."
   },
   {
     "name": "Neutral",
@@ -114,6 +122,7 @@
       "Essential Oil"
     ],
     "url": "neutral",
-    "color_code": "#3C4345"
+    "color_code": "#3C4345",
+    "description": "Neutralno ulje za masažu je izvrsna opcija za one s osjetljivom kožom ili za one koji preferiraju masažu bez mirisa. Ovo blago ulje pruža sve prednosti masaže bez dodanih mirisa ili potencijalnih iritansa. Odlična baza za miješanje s esencijalnim uljima po vašem izboru, omogućujući vam da stvorite vlastitu jedinstvenu mješavinu. Prikladno za terapeutske masaže gdje je fokus na fizičkim koristima masaže bez ometanja mirisom."
   }
 ]
