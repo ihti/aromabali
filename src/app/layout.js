@@ -1,4 +1,5 @@
-import { Inter, Montserrat } from "next/font/google";
+import Head from "next/head";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
 
 const font = Montserrat({
@@ -11,9 +12,13 @@ export const metadata = {
   description: "Aroma Bali - ulja za masažu",
 };
 
+
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <Head>
+      </Head>
       <body className={font.className}>{children}</body>
     </html>
   );
