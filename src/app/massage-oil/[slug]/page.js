@@ -14,7 +14,7 @@ export default function Page({ params }) {
       style={{ backgroundColor: oil.color_code }}
     >
       <div className="absolute top-4 left-4">
-        <a href="/" className="text-white underline">
+        <a href="/" className="text-white text-sm">
           Home
         </a>
       </div>
