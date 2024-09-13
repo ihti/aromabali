@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-4 sm:p-14 relative">
-      <div className="hidden sm:block absolute bottom-0 left-[-10%] w-3/5 h-full bg-no-repeat bg-left bg-cover" style={{ backgroundImage: 'url(/bg-penjor.svg)' }}></div>
+      <div className="hidden sm:block absolute bottom-0 left-0 w-full h-full bg-no-repeat bg-left bg-contain" style={{ backgroundImage: 'url(/bg-penjor.svg)' }}></div>
       <header className="w-full max-w-4xl mx-auto mb-12 text-center relative z-10">
         <Image
           src="/logo-transparent.png"
