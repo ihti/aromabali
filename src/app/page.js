@@ -4,10 +4,11 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-4 sm:p-14">
-      <header className="w-full max-w-4xl mx-auto mb-8 text-center">
+    <main className="flex min-h-screen flex-col items-center justify-between sm:p-14 relative">
+      <div className="absolute bottom-0 left-[-10%] w-3/5 h-full bg-no-repeat bg-left bg-cover" style={{ backgroundImage: 'url(/penjor-2.svg)' }}></div>
+      <header className="w-full max-w-4xl mx-auto mb-12 text-center relative z-10">
         <Image
-          src="/logo.png"
+          src="/logo-transparent.png"
           alt="Aroma Bali"
           width={1450}
           height={756}
@@ -16,9 +17,9 @@ export default function Home() {
         />
       </header>
 
-      <section className="w-full max-w-4xl mx-auto mb-8 text-gray-800">
+      <section className="w-full max-w-4xl mx-auto mb-12 relative z-10">
         <h1 className="text-2xl sm:text-3xl font-bold mb-6 text-center">
-          Aroma Bali: Esencija tropskog raja u vašem domu
+          Esencija tropskog raja u vašem domu
         </h1>
 
         <div className="space-y-4 text-md">
@@ -55,10 +56,17 @@ export default function Home() {
             Otkrijte čaroliju Balija s Aroma Bali - vašim ključem za svakodnevni
             luksuz i wellness.
           </p>
+
+          <p>
+            250ml: Idealno za ličnu upotrebu, uživajte u svakom trenutku masaže i prepustite se mirisu i šarmu Balija u udobnosti vlastitog doma.
+          </p>
+          <p>
+            500ml: Savršeno za spa centre i salone, osiguravajući da vaši klijenti osjetete šarm Balija.
+          </p>
         </div>
       </section>
 
-      <nav className="w-full max-w-4xl mx-auto">
+      <section className="w-full max-w-4xl mx-auto relative z-10">
         <h2 className="text-xl font-semibold mb-4 text-center">Naša ulja</h2>
         <div className="flex flex-wrap justify-center gap-2 sm:gap-4">
           {oils.map((oil) => (
@@ -74,7 +82,19 @@ export default function Home() {
             </Link>
           ))}
         </div>
-      </nav>
+        <p className="text-md mt-4">
+          250ml: Idealno za ličnu upotrebu, uživajte u svakom trenutku masaže i prepustite se mirisu i šarmu Balija u udobnosti vlastitog doma.
+        </p>
+        <p className="text-md mt-2">
+          500ml: Savršeno za spa centre i salone, osiguravajući da vaši klijenti osjetete šarm Balija.
+        </p>
+      </section>
+
+      <section className="w-full max-w-4xl mx-auto mt-12 text-center relative z-10">
+        <h2 className="text-xl font-semibold mb-4">Kontakt</h2>
+        {/* <p className="text-md mb-2">Email: info@aromabali.com</p> */}
+        <p className="text-md">Tel: +387 61 157 264</p>
+      </section>
     </main>
   );
 }
