@@ -57,12 +57,6 @@ export default function Home() {
             luksuz i wellness.
           </p>
 
-          <p>
-            250ml: Idealno za ličnu upotrebu, uživajte u svakom trenutku masaže i prepustite se mirisu i šarmu Balija u udobnosti vlastitog doma.
-          </p>
-          <p>
-            500ml: Savršeno za spa centre i salone, osiguravajući da vaši klijenti osjetete šarm Balija.
-          </p>
         </div>
       </section>
 
